@@ -1,9 +1,9 @@
 services:
   # grafana
-  grafana:
+  # grafana:
 
   # prometheus
-  prometheus:
+  # prometheus:
 
   # gotify
   gotify:
